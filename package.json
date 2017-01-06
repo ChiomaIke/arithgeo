@@ -1,0 +1,22 @@
+{
+  "name": "calculate",
+  "version": "1.0.0",
+  "description": "checking for arithmetic or geometric progression",
+  "main": "app/library.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiomaIke/arithgeo.git"
+  },
+  "keywords": [
+    "arithmetic"
+  ],
+  "author": "Chioma Ike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiomaIke/arithgeo/issues"
+  },
+  "homepage": "https://github.com/ChiomaIke/arithgeo#readme"
+}
