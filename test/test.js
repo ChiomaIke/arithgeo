@@ -5,6 +5,8 @@ var expect = require('expect');
 
 var myApp = require('../app/library.js');
 
+// testing code goes here
+
   describe("Determine the sequence of an array of numbers: ", function() {
 
     describe("Case for an empty array", function() {
