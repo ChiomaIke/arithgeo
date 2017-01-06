@@ -1,7 +1,7 @@
 {
   "name": "calculate",
   "version": "1.0.0",
-  "description": "checking for arithmetic or geometric progression",
+  "description": "checking for arith or geo progression",
   "main": "app/library.js",
   "scripts": {
     "test": "mocha test/test.js"
