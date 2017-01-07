@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ChiomaIke/arithgeo/issues"
   },
-  "homepage": "https://github.com/ChiomaIke/arithgeo#readme"
+  "homepage": "https://github.com/ChiomaIke/arithgeo#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
 }

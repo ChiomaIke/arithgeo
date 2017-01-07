@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-var expect = require('expect');
+var jasmine = require('jasmine');
 
 var myApp = require('../app/library.js');
 
