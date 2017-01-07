@@ -4,7 +4,7 @@
   "description": "checking for arith or geo progression",
   "main": "app/library.js",
   "scripts": {
-    "test": "mocha test/test.js"
+    "test": "jasmine test/test.js"
   },
   "repository": {
     "type": "git",
